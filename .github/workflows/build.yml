@@ -1,6 +1,12 @@
 name: pe-parser builder
 
 on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'build'
+        required: true
+
   push:
     branches: [ master ]
   pull_request:
