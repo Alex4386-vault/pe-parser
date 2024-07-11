@@ -5,7 +5,7 @@ on:
     inputs:
       name:
         description: 'build'
-        required: true
+        required: false
 
   push:
     branches: [ master ]
