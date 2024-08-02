@@ -31,7 +31,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: make
+      run: make mac
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2
       with:
