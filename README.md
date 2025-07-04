@@ -1,5 +1,6 @@
 # `pe-parser`
-A cross-platform implementation for parsing Microsoft Windows® PE and MS-DOS® MZ Headers on executables in capable forms created for assignment for Pay1oad's Digital Forensics Track)
+A cross-platform implementation for parsing Microsoft Windows® PE and MS-DOS® MZ Headers on executables in human-readable form.  
+(Created for assignment for Pay1oad's Digital Forensics Track)
 
 > [!WARNING]
 > This project is no longer being maintained.  
